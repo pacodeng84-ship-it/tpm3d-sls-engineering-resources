@@ -7,7 +7,7 @@ Practical documentation and a browser-based mass estimator for engineers prepari
 - **Estimate weight:** [Open the browser calculator](https://pacodeng84-ship-it.github.io/tpm3d-sls-engineering-resources/).
 - **Compare candidates:** [Use the PA11 / PA12 selection worksheet](docs/material-selection.md).
 - **Prepare an RFQ:** [Review finishing and design inputs](docs/finishing-design.md).
-- **Learn the implementation:** [Read the JavaScript tutorial on DEV.to](https://dev.to/rongdong_deng_259145a94b1/build-a-unit-safe-sls-part-weight-estimator-in-javascript-40p4).
+- **Compare processes:** [Read the SLS vs SLA engineering selection guide on DEV.to](https://dev.to/rongdong_deng_259145a94b1/build-a-unit-safe-sls-part-weight-estimator-in-javascript-40p4).
 
 For engineers, product teams and buyers preparing functional nylon prototypes or low-volume SLS projects.
 
