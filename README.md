@@ -24,7 +24,9 @@ The two named density presets are owner-supplied figures, not independently veri
 
 ## Online calculator
 
-The calculator source is `index.html`. Hosted access is pending activation of GitHub Pages. Until then, download the repository and open the file locally.
+[Open the online SLS Part Weight Estimator](https://pacodeng84-ship-it.github.io/tpm3d-sls-engineering-resources/).
+
+Hosted on GitHub Pages and verified on 3 October 2026: unit conversion, named density presets and batch calculations. The calculator source is `index.html`.
 
 ## License
 
